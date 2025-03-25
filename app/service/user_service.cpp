@@ -2,6 +2,7 @@
 #include <unordered_map>
 #include <sqlite3.h>
 #include "../../include/crow_all.h"
+#include "../service/user_service.h" 
 
 namespace user_service {
 
